@@ -1,0 +1,26 @@
+[
+    {
+        "projectTitle": "Project 1",
+        "projectDescription": "Description 1",
+        "projectDeadline": "2022-11-21",
+        "priority": "Low"
+    },
+    {
+        "projectTitle":"Project 2",
+        "projectDescription":"Description 2",
+        "projectDeadline":"2022-11-20",
+        "priority":"Low"
+    },
+    {
+        "projectTitle":"Project 3",
+        "projectDescription":"Description 3",
+        "projectDeadline":"2022-11-20",
+        "priority":"Low"
+    },
+    {
+        "projectTitle":"Project 4",
+        "projectDescription":"Description 4",
+        "projectDeadline":"2022-11-20",
+        "priority":"High"
+    }
+]
